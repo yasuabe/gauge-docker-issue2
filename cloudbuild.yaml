@@ -1,0 +1,3 @@
+steps:
+- id: "gauge config --list"
+  name: 'gcr.io/gauge-gcb-trial/gauge-docker-issue2:latest'
